@@ -1,2 +1,3 @@
 # Responsive-Web-Design
-A website 
+
+Learning Web Development from Free Code Camp.

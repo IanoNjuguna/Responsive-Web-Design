@@ -1,3 +1,3 @@
 # Responsive-Web-Design
 
-Learning Web Development from Free Code Camp.
+Learning Responsive Web Development from Free Code Camp.

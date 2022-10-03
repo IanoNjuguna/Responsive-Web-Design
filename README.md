@@ -1,3 +1,3 @@
 # Responsive-Web-Design
 
-Learning Responsive Web Development{FrontEnd && BackEnd}
+This is where I Learn Responsive Web Development: FrontEnd && BackEnd.

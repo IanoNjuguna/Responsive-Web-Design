@@ -23,4 +23,4 @@ console.log(container);
 // querySelectorAll()
 
 const container2 = document.querySelectorAll("div");
-console.log(container);
+console.log(container2);

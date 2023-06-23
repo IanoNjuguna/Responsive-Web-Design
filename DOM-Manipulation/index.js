@@ -7,6 +7,9 @@ console.log(title);
 
 // getElementsByClassName()
 
+const listItem = document.getElementsByClassName("list-item");
+console.log(listItem)
+
 // getElementByTagName()
 
 // querySelector()

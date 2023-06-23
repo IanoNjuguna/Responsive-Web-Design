@@ -2,7 +2,7 @@
 
 // getElementById()
 
-const title = document.getElementById("main-heading");
+const title = document.getElementsById("main-heading");
 console.log(title);
 
 // getElementsByClassName()

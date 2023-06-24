@@ -19,3 +19,7 @@ console.log(container); //test
 // querySelectorAll()
 const container2 = document.querySelectorAll("div");
 console.log(container2); //test
+
+// Styling an Element
+const title2 = document.querySelector('#main-heading');
+title.style.color = 'red';

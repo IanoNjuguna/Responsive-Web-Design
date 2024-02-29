@@ -4,7 +4,7 @@ Modern web development
 
 ## Full Stack Open
 
-The content is the same as in the [Full Stack course](https://fullstackopen.com/) held at the Department of Computer Science at the University of Helsinki in the Spring of 2023.
+The content is the same as in the [Full Stack course](https://fullstackopen.com/) held at the Department of Computer Science at the University of Helsinki in the Spring of 2024.
 
 ### Description
 

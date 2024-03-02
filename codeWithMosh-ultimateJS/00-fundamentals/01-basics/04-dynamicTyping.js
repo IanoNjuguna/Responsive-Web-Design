@@ -7,7 +7,7 @@
 */
 
 let jina = "Iano";
-
+jina = 7;
 let type = typeof jina;
 
 console.log(type);

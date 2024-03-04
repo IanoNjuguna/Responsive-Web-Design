@@ -10,4 +10,4 @@ It has three buttons:
 * ```-```: subtracts 1 from the counter.
 * ```0```: resets the counter to its default state, i.e: 0.
 
-![Screenshot of the counter app](public/Screenshot.png)
+![Screenshot of the counter app](public/counter.png)

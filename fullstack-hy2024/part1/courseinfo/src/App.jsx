@@ -30,16 +30,16 @@ const App = () => {
   const Content = () => {
     return (
       <div>
-        <p> {course.parts[0].name} </p>
-        <p> {course.parts[1].name} </p>
-        <p> {course.parts[2].name} </p>
+        <p> {course.parts[0].name}: {course.parts[0].exercises} </p>
+        <p> {course.parts[1].name}: {course.parts[1].exercises} </p>
+        <p> {course.parts[2].name}: {course.parts[2].exercises} </p>
       </div>
     )
   }
   const Total = () => {
     return (
       <div>
-        <p>Number of exercises {course.parts[0].exercises + course.parts[1].exercises + course.parts[2].exercises}</p>
+        <p>Number of exercises: {course.parts[0].exercises + course.parts[1].exercises + course.parts[2].exercises}</p>
       </div>
   )
 }

@@ -1,6 +1,7 @@
 # 02-operators
 
-* JS Operators
+This is the list of JS Operators:
+
 * Arithmetic Operators
 * Assignment Operators
 * Comparison Operators
